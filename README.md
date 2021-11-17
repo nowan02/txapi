@@ -1,5 +1,5 @@
 # txapi
-Simple api in C# for the TX console app (https://github.com/doczi-dominik/tx)
+Simple api in C# for the TX console app (https://github.com/doczi-dominik/tx)<br>
 Note that the program was written in C# 10.0 and the .NET 6.0 framework!
 
 <b>Endpoints:</b>
