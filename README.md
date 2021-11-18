@@ -4,7 +4,7 @@ Simple api in C# for the TX console app (https://github.com/doczi-dominik/tx)<br
 # Endpoints
 * **POST** /api/uploadfile
   - Upload a json string to the uploads folder, the api will send the filename (SyncId) as a response.
-* **GET/PUT** /api/uploads/<filename>
+* **GET/PUT** /api/uploads/[filename]
   - A GET request will send the entire file back as a response. A PUT request appends to the file.
 
 Right now, it is only recommended to use this through a local network,<br>
