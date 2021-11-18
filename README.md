@@ -15,8 +15,7 @@ Note that the program was written in C# 10.0 and the .NET 6.0 framework.<br>
 You'll need the correct packages to build the app.
   
 * Create a new 'web' project using the following command:
-  > dotnet new console -n project_name
-  Run this in the desired folder to create the build files.
+  > dotnet new console -n project_name<br>
 * Copy the files into **Program.cs**, then build and run the project:
   > dotnet run
 * You can test the API by sending data to the **/api/uploadfile** endpoint.
