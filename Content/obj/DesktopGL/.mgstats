@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/nowan/Documents/Projects/GameTest/Content/grass.png","C:/Users/nowan/Documents/Projects/GameTest/Content/bin/DesktopGL/grass.xnb","TextureProcessor","Texture2DContent",482,4181,0,2062354
+"C:/Users/nowan/Documents/Projects/GameTest/Content/ground.png","C:/Users/nowan/Documents/Projects/GameTest/Content/bin/DesktopGL/ground.xnb","TextureProcessor","Texture2DContent",159,4181,0,0095942
+"C:/Users/nowan/Documents/Projects/GameTest/Content/je.png","C:/Users/nowan/Documents/Projects/GameTest/Content/bin/DesktopGL/je.xnb","TextureProcessor","Texture2DContent",959,1109,0,0033325
